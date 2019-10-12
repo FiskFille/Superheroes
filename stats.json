@@ -1,17 +1,21 @@
 {
   "conquest": {
     "gold": {
+      "65643751-e66f-455c-912f-0ef779078746": 1 // zacattackgaming
     },
     "silver": {
+      "0c888e82-5957-4f1c-9984-f65f4ea75180": 1 // lolgamer18
     },
     "bronze": {
+      "453879c4-b193-4e38-9f04-d1560cd99fe7": 1 // jearldster
     }
   },
   "patreonDonators": [
     "a83ffbfd-17e1-4d1c-8c97-804c994eb155", // Gaby
     "9774cf3c-1e0f-41df-9121-776562caed51", // Pyro
     "7c4a9940-940a-4834-8d31-3b41af64f623", // An1k1n
-    "a05af5be-4de7-45e1-86b6-ab1c6812f20a" // Secret
+    "a05af5be-4de7-45e1-86b6-ab1c6812f20a", // Secret
+    "b0cbd279-0713-4762-ab1a-775552bcff08" // ImranDoet
   ],
   "originalDonators": [
     "a83ffbfd-17e1-4d1c-8c97-804c994eb155",
