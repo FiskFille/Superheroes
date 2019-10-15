@@ -1,13 +1,14 @@
 {
   "conquest": {
     "gold": {
-      "65643751-e66f-455c-912f-0ef779078746": 1 // zacattackgaming
+      "65643751-e66f-455c-912f-0ef779078746": 2 // zacattackgaming
     },
     "silver": {
-      "0c888e82-5957-4f1c-9984-f65f4ea75180": 1 // lolgamer18
+      "0c888e82-5957-4f1c-9984-f65f4ea75180": 1, // lolgamer18
+      "a05af5be-4de7-45e1-86b6-ab1c6812f20a": 1 // Secret
     },
     "bronze": {
-      "453879c4-b193-4e38-9f04-d1560cd99fe7": 1 // jearldster
+      "453879c4-b193-4e38-9f04-d1560cd99fe7": 2 // jearldster
     }
   },
   "conquestTop": "65643751-e66f-455c-912f-0ef779078746", // zacattackgaming
