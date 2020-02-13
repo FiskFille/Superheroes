@@ -1,14 +1,18 @@
 {
   "conquest": {
     "gold": {
-      "65643751-e66f-455c-912f-0ef779078746": 2 // zacattackgaming
+      "65643751-e66f-455c-912f-0ef779078746": 4, // zacattackgaming
+      "41349064-4647-49f8-9eda-512d80017098": 1 // TonyFV
     },
     "silver": {
-      "0c888e82-5957-4f1c-9984-f65f4ea75180": 1, // lolgamer18
-      "a05af5be-4de7-45e1-86b6-ab1c6812f20a": 1 // Secret
+      "a05af5be-4de7-45e1-86b6-ab1c6812f20a": 2, // Secret
+      "65643751-e66f-455c-912f-0ef779078746": 1, // zacattackgaming
+      "453879c4-b193-4e38-9f04-d1560cd99fe7": 2 // jearldster
     },
     "bronze": {
-      "453879c4-b193-4e38-9f04-d1560cd99fe7": 2 // jearldster
+      "453879c4-b193-4e38-9f04-d1560cd99fe7": 2, // jearldster
+      "0c888e82-5957-4f1c-9984-f65f4ea75180": 1, // lolgamer18
+      "5eb1bc0d-276d-402e-9171-5a6d404b552f": 1  // 0rthodox (Hugs)
     }
   },
   "conquestTop": "65643751-e66f-455c-912f-0ef779078746", // zacattackgaming
@@ -25,7 +29,8 @@
     "a70fe046-a1e0-4e6c-b81d-b9f3b1ed5740", // iiMitchell
     "ab07a732-33c1-4bf9-b78d-96105da6961f", // ElDiabloS0ul_
     "07001d5c-f62a-421f-80dd-87ad43461ce8", // BizDC
-    "5eb1bc0d-276d-402e-9171-5a6d404b552f"  // 0rthodox (Hugs)
+    "5eb1bc0d-276d-402e-9171-5a6d404b552f", // 0rthodox (Hugs)
+    "2e252bbb-2d28-4da5-88f4-7d6657c7ca4f"  // glitch_Cannon
   ],
   "patreonClub": [
     "a83ffbfd-17e1-4d1c-8c97-804c994eb155", // Gaby
@@ -37,7 +42,8 @@
     "41349064-4647-49f8-9eda-512d80017098", // TonyFV
     "ab07a732-33c1-4bf9-b78d-96105da6961f", // ElDiabloS0ul_
     "07001d5c-f62a-421f-80dd-87ad43461ce8", // BizDC
-    "5eb1bc0d-276d-402e-9171-5a6d404b552f"  // 0rthodox (Hugs)
+    "5eb1bc0d-276d-402e-9171-5a6d404b552f", // 0rthodox (Hugs)
+    "2e252bbb-2d28-4da5-88f4-7d6657c7ca4f"  // glitch_Cannon
   ],
   "originalDonators": [
     "a83ffbfd-17e1-4d1c-8c97-804c994eb155",
